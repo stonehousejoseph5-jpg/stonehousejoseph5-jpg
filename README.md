@@ -1,99 +1,48 @@
 ## Hi there 👋
+</main>
 
-<!--
-**stonehousejoseph5-jpg/stonehousejoseph5-jpg** is a ✨ _special_ ✨
-repository because its`README.md`(this file) appears on your GitHub
-profile.
+## Hi, I'm Joseph 
 
-Here are some ideas to get you started:
+### Union Tradesman → Digital Builder 
+I spent nearly 25 years in the construction industry — starting at 13 as a hard carrier and earning multiple union cards across carpentry and labor. I worked on mega‑projects, led crews, and lived the real jobsite life every day until disability‑related limitations forced a career shift.
 
-- 🔭 I’m currently working ABOUT ME:
-I’m a former union carpenter and laborer with nearly 25 years
-in the construction industry, starting at 13 as a hard carrier.
-After a lifetime of physical work and earning multiple union cards,I
-transitioned into tech and digital business due to disability-
-related limitations.
+That shift didn’t slow me down. It pushed me into a new lane.
 
-Today,I build and manage multiple online income streams,including
-two e‑commerce stores and several monetized social platforms across
-Facebook, Instagram, TikTok, Twitter, YouTube, and Scoopz.
-I’m also developing my own website and expanding into automation 
-and AI‑driven systems to scale my business.
+### What I Do Now 
+Today, I build digital systems the same way I built structures: 
+with precision, consistency, and a relentless work ethic.
 
-I hold certifications in AI and development, and I’m continuing my
-education while building a more sustainable, tech‑focused career. My
-background gives me a unique mix of hands‑on work ethic, problem‑
-solving, and modern digital skills--and I’m using all of it to create
-systems, content, and businesses that I fully own and control.
+I run multiple online income streams, including: 
+- Two e‑commerce stores 
+- Monetized platforms across Facebook, Instagram, TikTok, Twitter, YouTube, and Scoopz 
+- A growing network of trade‑focused websites and tools 
+- Automation and AI‑driven workflows to scale everything I build 
 
-- 🌱 I’m currently learning...
-Building automation systems,AI tools,and modern web development while
-transitioning from a 30‑year construction career into tech and digital
-business.
+I’m also earning certifications in AI and development while expanding into full‑stack digital business.
 
-- 👯 I’m looking to collaborate on ...
-E‑commerce projects,content creation,automation workflows,and digital
-systems that help small businesses scale online.
+### Why My Background Matters 
+My jobsite experience gives me: 
+- Real‑world problem‑solving 
+- Leadership under pressure 
+- Hands‑on workflow design 
+- The ability to build systems that actually work 
 
-- 🤔 I’m looking for help with...
-Growing my online stores, improving my website, and connecting with
-people experienced in tech, marketing,or automation who can help me
-expand my digital platforms.
-..
-- 💬 Ask me about ...
-Union construction work, transitioning careers after disability, building
-online income streams, e‑commerce, monetized social platforms,and using AI
-to automate business.
+Now I’m applying those same skills to tech — creating digital assets that last and building a future that doesn’t depend on physical labor.
 
-- 📫 You can reach me at…
-(stonehousejoseph@gmail.com ,jpg/stonehousejoseph5-jpg..or
-317-795-5716.)
+### What I’m Building 
+- A full trade‑focused website ecosystem 
+- Multiple GitHub repositories and apps 
+- Automated content and business workflows 
+- Scalable digital systems for long‑term income 
 
-- 😄 Pronouns…
-Prefer not to say
-
-- ⚡ Fun fact:Fun fact…
-I’m rebuilding my entire career from scratch, and I’m doing it for my kids
-
-# Ironline Supply Co. 🛠️
-**Field-Tested Gear for the Modern Tradesman.**
-
-## Shop by Trade
-| Trade | Status | Trade | Status |
-| :--- | :--- | :--- | :--- |
-| **Brickmasons** | ✅ Active | **Carpenters** | ✅ Active |
-| **Ironworkers** | ✅ Active | **Concrete Finishers** | ✅ Active |
-| **Electricians** | ✅ Active | **Plumbers** | ✅ Active |
-| **Roofers** | 🚧 Pending | **Laborers** | ✅ Active |
-| **Operators** | 🆕 Added | **Safety Gear** | ✅ Active |
-
-## 📦 Equipment & Apparel
-* **Boots:** Thorogood, Red Wing, and more.
-* **Storage:** Job-site boxes, tool bags, and organization.
-* **Apparel:** Heavy-duty hoodies, beanies, and high-vis gear.
-
----
-*Built for the guys in the mud and the iron.*
-</html>
-</head>
-</body>
+### What Drives Me 
+Ownership. 
+Consistency. 
+Building things that outlive the workday. 
+Turning decades of jobsite knowledge into digital assets for my family and future.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Joseph Stonehouse
+Sent from my iPhone
