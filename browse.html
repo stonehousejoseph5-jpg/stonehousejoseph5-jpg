@@ -1,1 +1,127 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Browse Tools – Ironline Supply Co.</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background: #222;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 22px;
+      letter-spacing: 1px;
+    }
+
+    nav {
+      background: #333;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-size: 16px;
+    }
+
+    .tool-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .tool-item {
+      background: white;
+      border-radius: 8px;
+      padding: 15px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    .tool-item img {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      border-radius: 6px;
+    }
+
+    .tool-item p {
+      margin: 10px 0;
+      font-weight: bold;
+    }
+
+    .buy-btn {
+      display: inline-block;
+      background: #0073e6;
+      color: white;
+      padding: 8px 12px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .buy-btn:hover {
+      background: #005bb5;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>Ironline Supply Co. – Browse Tools</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="carpenters.html">Carpenters</a>
+  <a href="ironworkers.html">Ironworkers</a>
+  <a href="brickmasons.html">Brickmasons</a>
+  <a href="concrete.html">Concrete</a>
+  <a href="operators.html">Operators</a>
+  <a href="apparel.html">Apparel</a>
+  <a href="consumables.html">Consumables</a>
+  <a href="browse.html">Browse</a>
+</nav>
+
+<section class="tool-grid">
+
+  <!-- EXAMPLE TOOL ITEM — COPY THIS BLOCK FOR EACH TOOL -->
+  <div class="tool-item">
+    <img src="images/hammer.jpg" alt="Hammer">
+    <p>Hammer</p>
+    <a class="buy-btn" href="YOUR_AMAZON_AFFILIATE_LINK">Shop on Amazon</a>
+  </div>
+
+  <div class="tool-item">
+    <img src="images/wrench.jpg" alt="Wrench">
+    <p>Adjustable Wrench</p>
+    <a class="buy-btn" href="YOUR_AMAZON_AFFILIATE_LINK">Shop on Amazon</a>
+  </div>
+
+  <div class="tool-item">
+    <img src="images/level.jpg" alt="Level">
+    <p>24" Level</p>
+    <a class="buy-btn" href="YOUR_AMAZON_AFFILIATE_LINK">Shop on Amazon</a>
+  </div>
+
+  <!-- Add as many tools as you want below this line -->
+  <!-- Just duplicate the block and change the image + name + link -->
+
+</section>
+
+</body>
+</html>
+
+}
