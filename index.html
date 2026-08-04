@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ironline Supply Co.</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f5f5f5; margin:0; padding:0 }
+    header { background:#222; color:#fff; padding:16px; text-align:center; font-size:24px }
+    nav { background:#333; padding:10px; text-align:center }
+    nav a { color:#fff; margin:0 12px; text-decoration:none }
+    .container { padding:20px }
+    .tool-grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap:20px }
+    .tool-item { background:#fff; border-radius:8px; padding:12px; text-align:center; box-shadow:0 2px 6px rgba(0,0,0,0.08) }
+    .tool-item img { width:100%; height:140px; object-fit:cover; border-radius:6px }
+    .buy-btn { display:inline-block; background:#0073e6; color:#fff; padding:8px 12px; border-radius:5px; text-decoration:none }
+  </style>
+</head>
+<body>
+  <header>Ironline Supply Co.</header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="carpenters.html">Carpenters</a>
+    <a href="ironworkers.html">Ironworkers</a>
+    <a href="brickmasons.html">Brickmasons</a>
+    <a href="concrete.html">Concrete</a>
+    <a href="operators.html">Operators</a>
+    <a href="apparel.html">Apparel</a>
+    <a href="consumables.html">Consumables</a>
+    <a href="browse.html">Browse</a>
+    <a href="pipefitters.html">Pipefitters</a>
+    <a href="plumbers.html">Plumbers</a>
+    <a href="roofers.html">Roofers</a>
+    <a href="safety-gear.html">Safety</a>
+    <a href="z-boots.html">Boots</a>
+  </nav>
+
+  <main class="container">
+    <h1>Welcome to Ironline Supply Co.</h1>
+    <p>Tools, gear, and essentials for union tradespeople. Browse by trade or category below.</p>
+
+    <section class="tool-grid">
+      <div class="tool-item">
+        <img src="images/hammer.jpg" alt="Hammer">
+        <p>Hammer</p>
+        <a class="buy-btn" href="#">Shop on Amazon</a>
+      </div>
+      <div class="tool-item">
+        <img src="images/wrench.jpg" alt="Wrench">
+        <p>Adjustable Wrench</p>
+        <a class="buy-btn" href="#">Shop on Amazon</a>
+      </div>
+      <div class="tool-item">
+        <img src="images/level.jpg" alt="Level">
+        <p>24" Level</p>
+        <a class="buy-btn" href="#">Shop on Amazon</a>
+      </div>
+    </section>
+
+    <p style="margin-top:20px;color:#555">Note: If any images are missing, please add them under the <code>images/</code> folder with the paths used in the pages (for example <code>images/carpenters/carpenter1.jpg</code>).</p>
+  </main>
+</body>
+</html>
